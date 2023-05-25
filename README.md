@@ -20,4 +20,4 @@ $ npm run dev
 ![img preview](./public/img/pre.png "preview website")
 
 ### video
-[<video width="800" controls><source src="./public/pre-video.mp4" type="video/mp4"></video>](./public/pre-video.mp4 "preview")
+
